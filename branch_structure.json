@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-330-add-a-contract-fixture-harness-to-reduce",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-330-add-a-contract-fixture-harness-to-reduce": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-330-add-a-contract-fixture-harness-to-reduce",
+    "origin"
+  ]
+}
